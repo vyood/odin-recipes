@@ -1,1 +1,2 @@
-# odin-recipes
+This project is all about odin recipes
+
