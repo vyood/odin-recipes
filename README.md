@@ -1,2 +1,1 @@
-This project is all about odin recipes
-I will learn the ends and out of making the best recipes
+This project is all about building basic landing pages linked to one index.html
